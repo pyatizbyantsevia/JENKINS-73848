@@ -1,4 +1,4 @@
-# Using Groovy SSH tool for (JENKINS-73848)[https://issues.jenkins.io/browse/JENKINS-73848].
+# Using Groovy SSH tool for [JENKINS-73848](https://issues.jenkins.io/browse/JENKINS-73848).
 
 ## Prerequisites
 
